@@ -7,5 +7,3 @@ Exercicis de Projectes de Programació (PROP) Q2 - UPC FIB
 * [Entrega 2](https://github.com/andyfratello/PROP/tree/main/Entrega%202)- Nota: 9.75
 
 * [Entrega 3](https://github.com/andyfratello/PROP/tree/main/Entrega%203)- Nota: 
-
-google-site-verification=vvEa0QiJA1JDig7_ome8hW4Iutfs0KPeJKMpzBBh_nQ
