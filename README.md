@@ -11,5 +11,5 @@ Entregues de Projectes de Programació (PROP) Q2 - UPC FIB
 ### Autors:
 * [joan-aluja](https://github.com/joan-aluja)
 * [andyfratello](https://github.com/andyfratello)
-* [MarcDuch](https://github.com/MarcDuch)
+* [Marc Duch](https://github.com/Marcarrones)
 * Marc Clapés
